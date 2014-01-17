@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+ <software>
+     <metadata>
+         <name>BC Array Sort</name>
+         <version>1.0.0</version>
+         <copyright>Copyright (C) 2014 Bruno CHIREZ</copyright>
+		 <author>Bruno CHIREZ</author>
+         <license>MIT License</license>
+         <info_url>https://github.com/brunochirez/bcarraysort</info_url>
+     </metadata> 
+ </software>
